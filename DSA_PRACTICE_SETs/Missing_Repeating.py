@@ -1,4 +1,4 @@
-/*
+"""
 Find Missing And Repeating
 ==========================
 
@@ -28,7 +28,7 @@ Expected Auxiliary Space: O(1)
 Constraints:
 1 ≤ N ≤ 105
 1 ≤ Arr[i] ≤ N
-*/
+"""
 
 class Solution:
     def findTwoElement(self, arr, n):
